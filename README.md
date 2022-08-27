@@ -48,6 +48,6 @@
 #### 3. April,June and May have the highest total gross value
 # Recommendations
 #### Based on my analysis in order for microsoft to   have a successful movie studio  they should:
-#### 3.Microsoft should produce movies based on Action,Adventure as they are the top selling movies, with a higher total gross.
-#### 4.The best release months are April,May and June, Microsoft should basically be releasing movies in this month.
+#### 1.Microsoft should produce movies based on Action,Adventure as they are the top selling movies, with a higher total gross.
+#### 2.The best release months are April,May and June, Microsoft should basically be releasing movies in this month.
 #### For Microsoft to set a  foot on the movie industry they should mainly focus on producing Documentary and Action adventure movies.
