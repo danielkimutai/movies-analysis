@@ -1,4 +1,7 @@
 # movies-analysis
+## Author DANIEL KIMUTAI
+# Overview
+## Microsoft wants to create a new movie studio but since they don't know anything about creating movies.I have been tasked to explore what type of films  are currently doing at best at the box office.I explored the data given and figured out that i needed only two  use data from imdb and box office mojo.My analysis focused on a few aspects of  success in  a movie that is ratings and gross revenue .Using this aspects i formulated my guide questions based on top genres with high ratings,  genres with high gross value and also which month is best fit for  releasing in order for it to sell. Data Visualization tools such as the bar graph was used to give a clear understanding of this concepts.
 ## Business Understanding
 ### Most big companies are creating original video content ,microsoft wants to jump in on the fun.Microsoft have decided to create a new movie studio and since they don’t anything about movies ,i have been tasked to explore what types of movies are currently doing the best at the box office and come up with insights that will help them get into the industry.In order to come up with best insights .In order to assist them to achieve this goal and make successful movies, I looked at the highly performing movies  based on ratings,production budget and  gross value.I formulated a few questions that will help me come up with clear insights
  ### a)What type of movie genre is currently performing well based on its rating
