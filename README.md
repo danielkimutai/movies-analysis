@@ -1,5 +1,6 @@
 # movies-analysis
-![image](https://user-images.githubusercontent.com/110474324/187015276-6ec7a592-4592-401a-af6e-464277db7100.png)
+![image](https://user-images.githubusercontent.com/110474324/187015335-09aae847-c308-41e9-a8ce-35c3a6785c7f.png)
+
 
 ## Author DANIEL KIMUTAI
 # Overview
