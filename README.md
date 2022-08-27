@@ -33,11 +33,13 @@
 #### I cleaned my dataset and I then merged the two data sets to answer my last two questions.
 # DATA ANALYSIS
 ### I used data visualazation ,by using the bargraph and scatter plot  to  bring out clear insights to my questions
- ### a)What type of movie genre is currently performing well based on its rating![bargraph](https://user-images.githubusercontent.com/110474324/187013825-8821a51c-1870-4abb-9e5c-032a0777d716.png)
+ ### a)What type of movie genre is currently performing well based on its rating ?
+ ![bargraph](https://user-images.githubusercontent.com/110474324/187013825-8821a51c-1870-4abb-9e5c-032a0777d716.png)
  ##### According to our data above , we can see that the distribution of genre based on the the top 50 movies based on the top ratings  shows that documentary is the nost popular type of genre with the high ratings and most liked by people.
-### c) Which  genres have the highest total gross value ?![633e9837-8334-458a-a1ad-6f42be325636](https://user-images.githubusercontent.com/110474324/187013870-60dbd057-dfa6-469d-8448-e49a9eece180.png)
+### b) Which  genres have the highest total gross value ?
+![633e9837-8334-458a-a1ad-6f42be325636](https://user-images.githubusercontent.com/110474324/187013870-60dbd057-dfa6-469d-8448-e49a9eece180.png)
 #### According to my analysis, which was  based on checking which genre has the highest gross value .I concluded that most movies with the highest total gross were based on Action,Adventure,Sci-Fi with a  total gross of over 3 billion dollars,followed closely by Action,Adventure,Animation with aroound 2 billion dollars.The total gross was based on addin both the domestic and worldwide gross!
-## e) Which is the best month to release  a movie in order for it to sale?
+## c) Which is the best month to release  a movie in order for it to sale?
 
 ![f9a23d80-dfa2-45fa-b2dd-dedbc7121c53](https://user-images.githubusercontent.com/110474324/187013970-5b4d4e38-56e2-42dc-8d6f-e78379cb10e1.png)
 ### From the analysis ,our graph shows that April,June and May have the highest total gross value,hence movies released on these months garner alot of gross values
