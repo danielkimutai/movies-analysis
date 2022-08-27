@@ -16,8 +16,8 @@
 ## Data Understanding
 #### In order to get clear insights based on the questions above i collected  my information from two datasets.
 #### These datasets are
-  ### im.db.zip- This is data  is  contained in a Zipped SQL data base and contains different tables of movie informatiom
-  ### bom.movie_gross.csv.gz-This is a csv file,where each record represents,movvie,the release data,domestic gross,production_budget,worldwide gross of each movie.From this dataset I selected the following columns:
+  #### im.db.zip- This is data  is  contained in a Zipped SQL data base and contains different tables of movie informatiom
+  #### bom.movie_gross.csv.gz-This is a csv file,where each record represents,movvie,the release data,domestic gross,production_budget,worldwide gross of each movie.From this dataset I selected the following columns:
 #### movie  represents various types of movies
 #### release date- the date where each movie was  released
 #### domestic gross-local revenue based on the movie locality
